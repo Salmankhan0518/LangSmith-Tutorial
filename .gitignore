@@ -1,0 +1,10 @@
+﻿# Environments
+myenvLangsmith/
+.venv/
+env/
+venv/
+
+# Cache and secret files
+__pycache__/
+*.pyc
+.env
